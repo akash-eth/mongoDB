@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Akash Bhardwaj",
+        "email": "akash@mail.com",
+        "contact": "9877899879",
+        "courseCount": "5",
+        "isVerified": true
+    },
+    {
+        "name": "Kunal Sheoran",
+        "email": "kuna@mail.com",
+        "contact": "9873499879",
+        "courseCount": "2",
+        "isVerified": true
+    }
+]
