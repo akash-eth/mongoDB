@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/akashbhardwaj04/mongoDB/issues"
   },
-  "homepage": "https://github.com/akashbhardwaj04/mongoDB#readme"
+  "homepage": "https://github.com/akashbhardwaj04/mongoDB#readme",
+  "dependencies": {
+    "mocha": "^8.3.2",
+    "mongoose": "^5.12.1",
+    "nodemon": "^2.0.7"
+  }
 }
