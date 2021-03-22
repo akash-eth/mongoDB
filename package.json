@@ -1,0 +1,19 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "performing CRUD using mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashbhardwaj04/mongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashbhardwaj04/mongoDB/issues"
+  },
+  "homepage": "https://github.com/akashbhardwaj04/mongoDB#readme"
+}
