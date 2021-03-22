@@ -57,6 +57,13 @@ async function connect() {
         console.log(updateCursor.modifiedCount);
         */
 
+        //------------------------------------------------------------------
+        // delete() in dB: it is tested and working fine !!
+        /*
+        const deleteCursor = await student.deleteMany({isVerified: true})
+        console.log(deleteCursor.deletedCount);
+        */       
+
 
     }
     catch (ex) {
