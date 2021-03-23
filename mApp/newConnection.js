@@ -12,8 +12,8 @@ async function connect() {
         console.log(`Connected to database ${db.databaseName}`);
         
         /* gives us all the collections available in mongoTube dB (i.e. students): 
-        const collections = await db.collections();
-        collections.forEach(c => {console.log(c.collectionName);});
+                const collections = await db.collections();
+                collections.forEach(c => {console.log(c.collectionName);});
         */
         
         //------------------------------------------------------------------
